@@ -25,6 +25,13 @@ a {
 
 .social-media-icon {
     width: 32px;
+    display: inline-block;
+    margin: 8px;
+    vertical-align: top;
+}
+
+.social-media-icon img {
+    width: 100%;
 }
 
 .button {
