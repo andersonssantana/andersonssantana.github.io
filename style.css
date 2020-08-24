@@ -18,22 +18,17 @@ a {
     color: #333745;
 }
 
-.profile-box {
-    height: 200px;
-}
-
 .picture {
     border-radius: 100%;
     border: 3px solid #287bbd;
 }
 
 .social-media-icon {
-    width: 32px;
     margin: 8px;
 }
 
 .social-media-icon img {
-    width: 100%;
+    width: 32px;
 }
 
 .button {
