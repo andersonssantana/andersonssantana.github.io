@@ -18,6 +18,10 @@ a {
     color: #333745;
 }
 
+.profile-box {
+    height: 200px;
+}
+
 .picture {
     border-radius: 100%;
     border: 3px solid #287bbd;
@@ -25,9 +29,7 @@ a {
 
 .social-media-icon {
     width: 32px;
-    display: inline-block;
     margin: 8px;
-    vertical-align: top;
 }
 
 .social-media-icon img {
